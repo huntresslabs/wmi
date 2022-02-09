@@ -1,4 +1,4 @@
-module github.com/StackExchange/wmi
+module github.com/jamesodoherty-huntress/wmi
 
 go 1.13
 
