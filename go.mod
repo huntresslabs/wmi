@@ -1,4 +1,4 @@
-module github.com/jamesodoherty-huntress/wmi
+module github.com/huntresslabs/wmi
 
 go 1.16
 
